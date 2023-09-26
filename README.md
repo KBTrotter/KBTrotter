@@ -10,4 +10,6 @@ I'm currently a student in the TechWise Cohort 2 Certification program supported
 
 **Currently Learning: Web Development, DSA**
 
+**Certifications: CompTIA A+ (2020), CompTIA Network+ (2021), CompTIA Security+ (2022), GIAC GFACT Certification (2022)**
+
 
