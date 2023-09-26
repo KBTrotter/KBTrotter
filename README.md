@@ -4,10 +4,10 @@ I am a sophomore Computer Science and Engineering student at the University of N
 I am particularly interested in using technology in a multidisciplinary way. As an undergraduate researcher at UNR, I worked on a project that connects machine learning to forestry and gained new technical skills in the process. 
 I'm currently a student in the TechWise Cohort 2 Certification program supported by Google. This program has been strenthening my software development abilities and has introduced me to new tools and technologies. 
 
-#### I'm passionate about all things technology and eager to learn more!
+**I'm passionate about all things technology and eager to learn more!**
 
-### Languages: C++, Python, C
+**Languages: C++, Python, C**
 
-### Currently Learning: Web Development, DSA
+**Currently Learning: Web Development, DSA**
 
 
